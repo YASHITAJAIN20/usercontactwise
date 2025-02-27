@@ -166,13 +166,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## **Contact**
 
-For questions or feedback, feel free to reach out:
-
-- **Your Name**
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
 
 ---
 
